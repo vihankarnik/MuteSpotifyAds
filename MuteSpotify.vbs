@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "MuteSpotify.bat", 0, True
